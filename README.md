@@ -1,5 +1,6 @@
-backup.mysql 
-A Script to make a backup of a MySQL-Database, and sends it per Email
+dbbackup
+
+A Script to make a backup of a Database, like a MySQL-Database, and sends it per Email.
 
 Works great with databases that fit in an Email-Message
 Let say, archives smaller then 30 megabytes.
