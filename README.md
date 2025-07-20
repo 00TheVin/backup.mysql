@@ -5,3 +5,5 @@ Let say, archives smaller then 30 megabytes.
 You could attach it to a CronJob, to make a backup at set times.
 
 Author Ensio
+ensio@1000101.nl
+www.flongi.nl
